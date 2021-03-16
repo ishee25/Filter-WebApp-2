@@ -1,0 +1,19 @@
+h3{
+    font-size: 25px !important;
+}
+
+.btn-warning:hover{
+    background-color: black;
+}
+
+canvas{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border: 2px dashed black;
+    width: 300px; 
+    height: 300px; 
+    position: absolute; 
+    left: 1050px; 
+    top: 300px;
+}
